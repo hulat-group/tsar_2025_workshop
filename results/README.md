@@ -6,12 +6,21 @@ It is divided into two main components: **simplifications** (system outputs) and
 ---
 
 ## 📝 Simplifications
-
+(ACTUALIZAR DE ACUERDO A LO NOMBRES...)
 - `trial_simplifications.jsonl` → system outputs for the **trial set**.  
 - `test_simplifications.jsonl` → system outputs for the **test set**.  
+  ```json
+  {
+    "text_id": "number-a1/a2",
+    "original": "...",
+    "target_cefr": "A1/A2/B1",
+    "reference": "...",
+    "simplified": "..."
+  }
+
 - Additional runs included in [`../runs/`](../runs/).
 
-Each file follows the shared task format (`id`, `original`, `simplified`).
+Each file follows the shared task format (`text_id`, `simplified`, `target_cefr`).
 
 ---
 
