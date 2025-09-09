@@ -21,7 +21,7 @@ It is divided into two main components: **simplifications** (system outputs) and
 
 - Additional runs included in [`../runs/`](../runs/).
 
-Each file follows the shared task format:  
+- Each file follows the shared task format:  
 
   ```json
   {
@@ -57,7 +57,7 @@ We report evaluation results across several metrics:
 
 ---
 
-## 📂 Files Included (REVISAR)
+## 📂 Files Included (REVISAR y AGREGAR ARCHIVOS)
 
 - `trial_metrics.xlsx` → results on the trial dataset.  
 - `test_metrics.xlsx` → results on the test dataset.  
