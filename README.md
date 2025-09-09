@@ -37,24 +37,19 @@ We submitted **two runs**:
 
 ---
 
-## ⚙️ Usage
+## 🤖 Models
 
-```bash
-# Example of inference (mock or real if code is released)
-python src/inference.py \
-  --config configs/run1.yaml \
-  --input data/test.jsonl \
-  --output runs/run1_predictions.jsonl
+- **Meta LLaMA 3 – 8B**  
+  - Official model: [Meta LLaMA 3 on Hugging Face](https://huggingface.co/meta-llama)  
 
-# Evaluation (SARI, BERTScore, FHRI, SAS…)
-python src/evaluate.py \
-  --pred runs/run1_predictions.jsonl \
-  --refs data/references.jsonl \
-  --output results/metrics_run1.csv
-```
+- **Ettin – Encoder and Decoder (400M)**  
+  - Official models: [Ettin Suite on Hugging Face](https://huggingface.co/collections/jhu-clsp/encoders-vs-decoders-the-ettin-suite-686303e16142257eed8e6aeb)  
+⚠️ Model weights are **not included** in this repository due to size and license restrictions.  
 
 ---
-## 📖 Citation
+
+---
+## 📖 Citation (STAND BYS)
 
 @inproceedings{hulat_uc3m_tsar2025,
   author    = {Martínez, Paloma and Moreno, Lourdes and Sánchez Gómez, Jesús Manuel 
