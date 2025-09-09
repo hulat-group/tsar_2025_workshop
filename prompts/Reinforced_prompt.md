@@ -3,17 +3,28 @@
 Prompts with detailed CEFR descriptions and examples.
 
 ---
-<summary>CEFR Level A1</summary>
+**<summary>### PROMPT FOR CEFR LEVEL A1 (REINFORCED) ###</summary>**
 
-**Description**  
-- Beginner – Simple sentences. No passive. Top 1000 words. Familiar names, cognates.
+**Below are CEFR descriptions:**  
+- A1: Beginner – Simple sentences. No passive. Top 1000 words. Familiar names, cognates.
+- A2: Elementary – Short, simple texts with predictable info. 1000–2000 words.
+- B1: Intermediate – Everyday or job-related language. Includes descriptions of events, feelings and wishes.
+- B2: Upper Intermediate – Contemporary articles, styles, viewpoints. 5000–10,000 words.
+- C1: Proficient – Long, complex factual/literary texts. 10,000–20,000 words.
+- C2: Advanced Proficient – All forms of written language including abstract and highly complex.
 
-**Example**
+**Example A1:**
+Original: Some asteroids are very small.
+Simplified: Some space rocks are very small.
+
+**Target CEFR level: A1**
+Now simplify this one:
+Original: {INPUT}
 
 ---
-<summary>### PROMPT FOR CEFR LEVEL A2 (REINFORCED) ###</summary>
+**<summary>### PROMPT FOR CEFR LEVEL A2 (REINFORCED) ###</summary>**
 
-**Description**  
+**Below are CEFR descriptions:**   
 - A1: Beginner – Simple sentences. No passive. Top 1000 words. Familiar names, cognates.
 - A2: Elementary – Short, simple texts with predictable info. 1000–2000 words.
 - B1: Intermediate – Everyday or job-related language. Includes descriptions of events, feelings and wishes.
@@ -30,7 +41,7 @@ Now simplify this one:
 Original: {INPUT}
 
 ---
-<summary>### PROMPT FOR CEFR LEVEL B1 (REINFORCED) ###</summary>
+**<summary>### PROMPT FOR CEFR LEVEL B1 (REINFORCED) ###</summary>**
 
 **Below are CEFR descriptions:**  
 - A1: Beginner – Simple sentences. No passive. Top 1000 words. Familiar names, cognates.
