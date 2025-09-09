@@ -5,11 +5,11 @@ Prompts with short CEFR-level descriptions.
 ---
 
 ### PROMPT FOR CEFR LEVEL A1 
-Rewrite the following text at CEFR level A1.
-Use very short and simple sentences. Only basic vocabulary. Avoid complex grammar.
+Rewrite the following text at CEFR level A1.  
+Use very short and simple sentences. Only basic vocabulary. Avoid complex grammar.  
 
-Original: {INPUT}
-Simplified:
+Original: {INPUT}  
+Simplified:  
 
 ---
 
