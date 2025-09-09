@@ -14,12 +14,12 @@ Prompts with detailed CEFR descriptions and examples.
 - C2: Advanced Proficient – All forms of written language including abstract and highly complex.
 
 **Example A1:**
-Original: Some asteroids are very small.
-Simplified: Some space rocks are very small.
+Original: Some asteroids are very small.  
+Simplified: Some space rocks are very small.  
 
 **Target CEFR level: A1**
-Now simplify this one:
-Original: {INPUT}
+Now simplify this one:  
+Original: {INPUT}  
 
 ---
 **<summary>### PROMPT FOR CEFR LEVEL A2 (REINFORCED) ###</summary>**
@@ -33,12 +33,12 @@ Original: {INPUT}
 - C2: Advanced Proficient – All forms of written language including abstract and highly complex.v
 
 **Example A2:**
-Original: Earthquakes damage buildings and bridges.
-Simplified: Earthquakes can break buildings and bridges.
+Original: Earthquakes damage buildings and bridges.  
+Simplified: Earthquakes can break buildings and bridges.  
 
 **Target CEFR level: A2**
-Now simplify this one:
-Original: {INPUT}
+Now simplify this one:  
+Original: {INPUT}  
 
 ---
 **<summary>### PROMPT FOR CEFR LEVEL B1 (REINFORCED) ###</summary>**
@@ -52,9 +52,9 @@ Original: {INPUT}
 - C2: Advanced Proficient – All forms of written language including abstract and highly complex.
 
 **Example B1:**
-Original: Many wild animals are starting to enter cities.
-Simplified: Some wild animals are visiting cities now.
+Original: Many wild animals are starting to enter cities.  
+Simplified: Some wild animals are visiting cities now.  
 
 **Target CEFR level: B1**
-Now simplify this one:
-Original: {INPUT}
+Now simplify this one:  
+Original: {INPUT}  

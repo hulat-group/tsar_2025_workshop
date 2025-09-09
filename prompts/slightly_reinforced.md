@@ -14,19 +14,19 @@ Simplified:
 ---
 
 ### PROMPT FOR CEFR LEVEL A2
-Rewrite the following text at CEFR level A2.
-Use short, simple sentences and clear, everyday words.
+Rewrite the following text at CEFR level A2.  
+Use short, simple sentences and clear, everyday words.  
 
-Original: {INPUT}
-Simplified:
+Original: {INPUT}  
+Simplified:  
 
 ---
 
 ### PROMPT FOR CEFR LEVEL B1
-Rewrite the following text at CEFR level B1.
-Use clear, connected sentences with some detail. Everyday vocabulary is fine, but avoid very advanced or abstract terms.
+Rewrite the following text at CEFR level B1.  
+Use clear, connected sentences with some detail. Everyday vocabulary is fine, but avoid very advanced or abstract terms.  
 
-Original: {INPUT}
-Simplified:
+Original: {INPUT}  
+Simplified:  
 
 ---
