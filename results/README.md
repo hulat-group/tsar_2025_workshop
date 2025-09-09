@@ -29,7 +29,7 @@ Each file follows the shared task format:
     "simplified": "...",
     "target_cefr": "A1/A2/B1"
   }
-
+  ```
 ---
 
 ## 📐 Metrics
