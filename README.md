@@ -49,7 +49,7 @@ We submitted **two runs**:
 ---
 
 ---
-## 📖 Citation (STAND BYS)
+## 📖 Citation (STAND BY)
 
 @inproceedings{hulat_uc3m_tsar2025,
   author    = {Martínez, Paloma and Moreno, Lourdes and Sánchez Gómez, Jesús Manuel 
@@ -60,4 +60,8 @@ We submitted **two runs**:
   address   = {Madrid, España},
   publisher = {}
 }
+
+## Funding
+
+This work is part of the R&D&i ACCESS2MEET (PID2020-116527RB-I0) project financed by MCIN AEI/10.13039/501100011033/
 
