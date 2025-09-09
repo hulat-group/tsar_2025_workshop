@@ -3,8 +3,6 @@
 Prompts with detailed CEFR descriptions and examples.
 
 ---
-
-<details>
 <summary>CEFR Level A1</summary>
 
 **Description**  
@@ -13,8 +11,6 @@ Prompts with detailed CEFR descriptions and examples.
 **Example**
 
 ---
-
-<details>
 <summary>### PROMPT FOR CEFR LEVEL A2 (REINFORCED) ###</summary>
 
 **Description**  
@@ -34,8 +30,6 @@ Now simplify this one:
 Original: {INPUT}
 
 ---
-
-<details>
 <summary>### PROMPT FOR CEFR LEVEL B1 (REINFORCED) ###</summary>
 
 **Below are CEFR descriptions:**  
