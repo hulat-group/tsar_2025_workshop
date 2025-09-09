@@ -11,3 +11,23 @@ Prompts with detailed CEFR descriptions and examples.
 - Beginner – Simple sentences. No passive. Top 1000 words. Familiar names, cognates.
 
 **Example**
+
+---
+<details>
+<summary>### PROMPT FOR CEFR LEVEL A2 (REINFORCED) ###</summary>
+
+**Description**  
+- A1: Beginner – Simple sentences. No passive. Top 1000 words. Familiar names, cognates.
+- A2: Elementary – Short, simple texts with predictable info. 1000–2000 words.
+- B1: Intermediate – Everyday or job-related language. Includes descriptions of events, feelings and wishes.
+- B2: Upper Intermediate – Contemporary articles, styles, viewpoints. 5000–10,000 words.
+- C1: Proficient – Long, complex factual/literary texts. 10,000–20,000 words.
+- C2: Advanced Proficient – All forms of written language including abstract and highly complex.v
+
+**Example A2:**
+Original: Earthquakes damage buildings and bridges.
+Simplified: Earthquakes can break buildings and bridges.
+
+**Target CEFR level: A2**
+Now simplify this one:
+Original: {INPUT}
