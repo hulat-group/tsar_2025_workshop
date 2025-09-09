@@ -12,6 +12,7 @@ Prompts with detailed CEFR descriptions and examples.
 
 **Example**
 
+---
 
 <details>
 <summary>### PROMPT FOR CEFR LEVEL A2 (REINFORCED) ###</summary>
@@ -32,6 +33,9 @@ Simplified: Earthquakes can break buildings and bridges.
 Now simplify this one:
 Original: {INPUT}
 
+---
+
+<details>
 <summary>### PROMPT FOR CEFR LEVEL B1 (REINFORCED) ###</summary>
 
 **Below are CEFR descriptions:**  
