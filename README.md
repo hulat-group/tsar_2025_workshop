@@ -20,7 +20,7 @@ Universidad Carlos III de Madrid
 - Lourdes Moreno López  
 - Jesús Manuel Sánchez Gómez  
 - Marco Antonio Sánchez Escudero
-- Javier Madrid Hinostroza 
+- Javier Madrid Hijosa
 
 ---
 
