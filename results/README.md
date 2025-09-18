@@ -43,17 +43,17 @@ We report evaluation results across several metrics:
 
 ### 📊 Summary Table
 
-| Metric                                 | LLaMA 3 8B (Reinforced)  | LLaMA 3 8B (Slightly Reinforced) | Ettin Decoder |
-|----------------------------------------|--------------------------|----------------------------------|---------------|
-| CEFR Compliance – Weighted F1*         | 0.3000                   | 0.5200                           | 0.4800        |
-| CEFR Compliance – Adjacent Accuracy*   | 0.8500                   | 0.9750                           | 0.9300        |
-| CEFR Compliance – Exact                | 0.1750                   | 0.4750                           | –             |
-| CEFR Compliance – RMSE*                | 1.1100                   | 0.7746                           | 0.8900        |
-| Meaning Preservation – MeaningBERT*    | 0.6532                   | 0.7170                           | 0.6901        |
-| Meaning Preservation – BERTScore*      | 0.8837                   | 0.8988                           | 0.9025        |
-| Similarity to Refs – MeaningBERT*      | 0.6384                   | 0.7075                           | 0.6243        |
-| Similarity to Refs – BERTScore*        | 0.8764                   | 0.8921                           | 0.8789        |
-| AlignScore                             | 0.5600                   | 0.6038                           | 0.4300        |
+| Metric                                 | LLaMA 3 8B (Reinforced)  | LLaMA 3 8B (Slightly Reinforced) | Ettin Decoder (Reinforced) | Ettin Decoder (Slightly Reinforced) |
+|----------------------------------------|--------------------------|----------------------------------|----------------------------|-------------------------------------|
+| CEFR Compliance – Weighted F1*         | 0.3000                   | 0.5200                           | 0.4800                     | 0.2800                              | 
+| CEFR Compliance – Adjacent Accuracy*   | 0.8500                   | 0.9750                           | 0.9300                     | 0.8500                              | 
+| CEFR Compliance – Exact                | 0.1750                   | 0.4750                           | –                          | -                                   |
+| CEFR Compliance – RMSE*                | 1.1100                   | 0.7746                           | 0.8900                     | 1.1619                              |
+| Meaning Preservation – MeaningBERT*    | 0.6532                   | 0.7170                           | 0.6901                     | 0.8076                              |
+| Meaning Preservation – BERTScore*      | 0.8837                   | 0.8988                           | 0.9025                     | 0.8807                              |
+| Similarity to Refs – MeaningBERT*      | 0.6384                   | 0.7075                           | 0.6243                     | 0.6199                              |
+| Similarity to Refs – BERTScore*        | 0.8764                   | 0.8921                           | 0.8789                     | 0.8470                              |
+| AlignScore                             | 0.5600                   | 0.6038                           | 0.4300                     | 0.5576                              |
 
 ---
 

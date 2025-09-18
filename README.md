@@ -48,7 +48,6 @@ We submitted **two runs**:
 
 ---
 
----
 ## 📖 Citation (STAND BY)
 
 @inproceedings{hulat_uc3m_tsar2025,
@@ -60,6 +59,8 @@ We submitted **two runs**:
   address   = {Madrid, España},
   publisher = {}
 }
+
+---
 
 ## Funding
 
