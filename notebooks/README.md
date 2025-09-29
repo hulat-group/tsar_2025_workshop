@@ -24,12 +24,14 @@ Instead, notebooks show how they were loaded and used for inference and evaluati
 
 - **LLama3_8b** 
 - `llama3_8b_train.py` → simplifications and evaluation for **trial** set using LLaMA 3 8B.  
-- `llama3_8b_trial.py` → simplifications and evaluation for **trial** set using LLaMA 3 8B.  
-- `llama3_8b_test.py` → simplifications and evaluation for **test** set using LLaMA 3 8B. 
+- `llama3_8b_prompt_R.py` || `llama3_8b_prompt_SR.py` → prompt-based simplifications (Reinforced / Slightly Reinforced) on the **trial** set with LLaMA 3 8B.  
+
+- **run_code** 
+- `generate_results_prompt_SR.py` → simplifications and evaluation on the **test** set using the Slightly Reinforced prompt with LLaMA 3 8B.
 
 - **Ettin - Decoder (400)** 
-- `ettin_trial.ipynb` → simplifications and evaluation for **trial** set using Ettin Decoder.  
-- `ettin_test.ipynb` → simplifications and evaluation for **test** set using Ettin Decoder.  
+- `ettin_train.py` → simplifications and evaluation on the **trial** set using the Ettin Decoder (400M).  
+- `ettin_decoder_prompt_R.py` || `ettin_decoder_prompt_SR.py` → prompt-based simplifications (Reinforced / Slightly Reinforced) on the **test** set with the Ettin Decoder (400M).
 
 ---
 
