@@ -6,7 +6,6 @@ It is divided into two main components: **simplifications** (system outputs) and
 ---
 
 ## 📝 Simplifications
-(ACTUALIZAR DE ACUERDO A LO NOMBRES...)
 - `trial_simplifications.jsonl` → system outputs for the **trial set**.  
 - `test_simplifications.jsonl` → system outputs for the **test set**.  
   
@@ -54,15 +53,6 @@ We report evaluation results across several metrics:
 | Similarity to Refs – MeaningBERT*      | 0.6384                   | 0.7075                           | 0.6243                     | 0.6199                              |
 | Similarity to Refs – BERTScore*        | 0.8764                   | 0.8921                           | 0.8789                     | 0.8470                              |
 | AlignScore                             | 0.5600                   | 0.6038                           | 0.4300                     | 0.5576                              |
-
----
-
-## 📂 Files Included (REVISAR y AGREGAR ARCHIVOS)
-
-- `trial_metrics.xlsx` → results on the trial dataset.  
-- `test_metrics.xlsx` → results on the test dataset.  
-- `comparison.xlsx` → consolidated comparison across models.  
-- `*.csv` files with raw metric outputs.  
 
 ---
 
