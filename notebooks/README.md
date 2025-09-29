@@ -11,7 +11,7 @@ Each notebook documents the workflow of applying the selected models to the **tr
   - Used for both trial and test runs with two prompting strategies: *Reinforced* and *Slightly Reinforced*.  
   - Official model: [Meta LLaMA 3 on Hugging Face](https://huggingface.co/meta-llama)  
 
-- **Ettin – Encoder and Decoder (400M)**  
+- **Ettin – Decoder (400M)**  
   - Used as an additional baseline model for simplification.  
   - Official models: [Ettin Suite on Hugging Face](https://huggingface.co/collections/jhu-clsp/encoders-vs-decoders-the-ettin-suite-686303e16142257eed8e6aeb)  
 
@@ -20,10 +20,14 @@ Instead, notebooks show how they were loaded and used for inference and evaluati
 
 ---
 
-## 📂 Available Notebooks (REVISAR Y CORREGIR CON LOS NOMBRES DE LOS NOTEBOOKS FINALES)
+## 📂 Available Notebooks 
 
-- `llama3_8b_trial.ipynb` → simplifications and evaluation for **trial** set using LLaMA 3 8B.  
-- `llama3_8b_test.ipynb` → simplifications and evaluation for **test** set using LLaMA 3 8B.  
+- **LLama3_8b** 
+- `llama3_8b_train.py` → simplifications and evaluation for **trial** set using LLaMA 3 8B.  
+- `llama3_8b_trial.py` → simplifications and evaluation for **trial** set using LLaMA 3 8B.  
+- `llama3_8b_test.py` → simplifications and evaluation for **test** set using LLaMA 3 8B. 
+
+- **Ettin - Decoder (400)** 
 - `ettin_trial.ipynb` → simplifications and evaluation for **trial** set using Ettin Decoder.  
 - `ettin_test.ipynb` → simplifications and evaluation for **test** set using Ettin Decoder.  
 
@@ -35,3 +39,4 @@ Instead, notebooks show how they were loaded and used for inference and evaluati
 2. Ensure you have the required dependencies installed:  
    ```bash
    pip install -r requirements.txt
+

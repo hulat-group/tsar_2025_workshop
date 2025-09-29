@@ -48,16 +48,16 @@ We submitted **two runs**:
 
 ---
 
-## 📖 Citation (STAND BY)
+## 📖 Citation
 
-@inproceedings{hulat_uc3m_tsar2025,
-  author    = {Martínez, Paloma and Moreno, Lourdes and Sánchez Gómez, Jesús Manuel 
-               and Madrid, Javier and Sánchez Escudero, Marco Antonio},
-  title     = {HULAT-UC3M at TSAR 2025: Prompt-based Approaches with LLaMA 3 for Multilingual Text Simplification},
-  booktitle = {Proceedings of the TSAR 2025 Shared Task},
-  year      = {2025},
-  address   = {Madrid, España},
-  publisher = {}
+@misc{moreno2025promptbasedsimplificationplainlanguage,
+      title={Prompt-Based Simplification for Plain Language using Spanish Language Models}, 
+      author={Lourdes Moreno and Jesus M. Sanchez-Gomez and Marco Antonio Sanchez-Escudero and Paloma Martínez},
+      year={2025},
+      eprint={2509.17209},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.17209}, 
 }
 
 ---
