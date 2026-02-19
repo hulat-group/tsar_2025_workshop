@@ -52,11 +52,11 @@ We submitted **two runs**:
 
 For citing the GitHub repository:
 
-@misc{moreno2025promptbasedsimplificationplainlanguage,
-      title={HULAT-UC3M at TSAR 2025 Shared Task}, 
+@misc{sanchez2025tsar2025workshop,
+      title={{HULAT-UC3M at TSAR 2025 Shared Task}}, 
       author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},
       year={2025},
-      url={[https://arxiv.org/abs/2509.17209](https://github.com/hulat-group/tsar_2025_workshop)}, 
+      url={https://github.com/hulat-group/tsar_2025_workshop}, 
 }
 
 For citing the conference paper:
