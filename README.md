@@ -52,23 +52,23 @@ We submitted **two runs**:
 
 For citing the GitHub repository:
 
-@misc{sanchez2025tsar2025workshop,
-      title={{HULAT-UC3M at TSAR 2025 Shared Task}}, 
-      author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},
-      year={2025},
-      url={https://github.com/hulat-group/tsar_2025_workshop}, 
+@misc{sanchezgomez2025tsar2025workshop,  
+      title={{HULAT-UC3M at TSAR 2025 Shared Task}},  
+      author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},  
+      year={2025},  
+      url={https://github.com/hulat-group/tsar_2025_workshop},  
 }
 
 For citing the conference paper:
 
-@inproceedings{sanchez2025hulat,
-  title={{HULAT-UC3M at TSAR 2025 Shared Task: A Prompt-Based Approach using Lightweight Language Models for Readability-Controlled Text Simplification}},
-  author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},
-  booktitle={{Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025)}},
-  pages={183--192},
-  publisher={{Association for Computational Linguistics}},
-  year={2025},
-  doi={10.18653/v1/2025.tsar-1.15}
+@inproceedings{sanchezgomez2025hulat,  
+  title={{HULAT-UC3M at TSAR 2025 Shared Task: A Prompt-Based Approach using Lightweight Language Models for Readability-Controlled Text Simplification}},  
+  author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},  
+  booktitle={{Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025)}},  
+  pages={183--192},  
+  publisher={{Association for Computational Linguistics}},  
+  year={2025},  
+  doi={10.18653/v1/2025.tsar-1.15}  
 }
 
 ---
