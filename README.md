@@ -68,7 +68,7 @@ For citing the conference paper:
   pages={183--192},
   publisher={{Association for Computational Linguistics}},
   year={2025},
-  doi={https://doi.org/10.18653/v1/2025.tsar-1.15}
+  doi={10.18653/v1/2025.tsar-1.15}
 }
 
 ---
