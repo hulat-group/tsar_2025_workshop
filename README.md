@@ -53,20 +53,17 @@ We submitted **two runs**:
 For citing the GitHub repository:
 
 @misc{moreno2025promptbasedsimplificationplainlanguage,
-      title={Prompt-Based Simplification for Plain Language using Spanish Language Models}, 
-      author={Lourdes Moreno and Jesus M. Sanchez-Gomez and Marco Antonio Sanchez-Escudero and Paloma Martínez},
+      title={HULAT-UC3M at TSAR 2025 Shared Task}, 
+      author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},
       year={2025},
-      eprint={2509.17209},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.17209}, 
+      url={[https://arxiv.org/abs/2509.17209](https://github.com/hulat-group/tsar_2025_workshop)}, 
 }
 
 For citing the conference paper:
 
 @inproceedings{sanchez2025hulat,
-  title={{HULAT-UC3M at TSAR 2025 Shared Task A Prompt-Based Approach using Lightweight Language Models for Readability-Controlled Text Simplification}},
-  author={Sanchez-Gomez, Jesus M and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},
+  title={{HULAT-UC3M at TSAR 2025 Shared Task: A Prompt-Based Approach using Lightweight Language Models for Readability-Controlled Text Simplification}},
+  author={Sanchez-Gomez, Jesus M. and Moreno, Lourdes and Mart{\'\i}nez, Paloma and Sanchez-Escudero, Marco Antonio},
   booktitle={{Proceedings of the Fourth Workshop on Text Simplification, Accessibility and Readability (TSAR 2025)}},
   pages={183--192},
   publisher={{Association for Computational Linguistics}},
